@@ -5,7 +5,7 @@
 </div>
 ### 🚀 Power Apps • Power Automate • Dataverse • Copilot Studio • Power BI
 ### Building Enterprise Applications • Automating Business Processes • Creating AI-Powered Solutions
-
+<br/>
 <p align="center">
   <a href="https://github.com/alagalaharitha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
