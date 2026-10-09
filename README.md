@@ -1,5 +1,14 @@
 <div align="center">
 
+https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&pause=1000&color=0078D4&center=true&vCenter=true&width=1200&lines=Haritha+Alagala;Senior+Microsoft+Power+Platform+Developer;Building+Intelligent+Business+Solutions
+
+<br/>
+
+### 🚀 Power Apps • Power Automate • Dataverse • Copilot Studio • Power BI
+
+</div>
+
+
 # 👋 Hi, I'm Haritha Alagala
 
 ### Senior Microsoft Power Platform Developer
