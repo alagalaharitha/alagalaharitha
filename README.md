@@ -218,10 +218,6 @@ Enterprise Automation
 
 <img src="https://streak-stats.demolab.com/?user=alagalaharitha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=alagalaharitha&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub trophies" />
-
 </div>
 
 ---
