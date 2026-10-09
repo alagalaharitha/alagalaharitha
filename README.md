@@ -8,26 +8,18 @@
 
 <p align="center">
   <a href="https://github.com/alagalaharitha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://linkedin.com/in/alagala-haritha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:alagalaharitha1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=alagalaharitha&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=alagalaharitha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-</div>
-
----
-
-<div align="center">
-  ./Assets/output.gif
 </div>
 
 ---
@@ -98,13 +90,13 @@ Enterprise Automation
 ## ⚡ Power Platform
 
 <p>
-  https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge
-  https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge
-  <img src="https://img.shields.io/badge/Dataverse-0A66C2?style=for-the-badge" />
-  https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge
-  <img src="https://img.shields.io/badge/Power_Pages-5A2D82?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Copilot_Studio-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Builder-742774?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Dataverse-0A66C2?style=for-the-badge" alt="Dataverse" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_Pages-5A2D82?style=for-the-badge" alt="Power Pages" />
+  <img src="https://img.shields.io/badge/Copilot_Studio-412991?style=for-the-badge" alt="Copilot Studio" />
+  <img src="https://img.shields.io/badge/AI_Builder-742774?style=for-the-badge" alt="AI Builder" />
 </p>
 
 ---
@@ -112,13 +104,13 @@ Enterprise Automation
 ## 💻 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,html,css" alt="JS, HTML, CSS" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PowerFx-742774?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Custom_Connectors-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerFx-742774?style=for-the-badge" alt="PowerFx" />
+  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Custom_Connectors-0A66C2?style=for-the-badge" alt="Custom Connectors" />
 </p>
 
 ---
@@ -126,9 +118,9 @@ Enterprise Automation
 ## 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Dataverse-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" />
-  https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white
+  <img src="https://img.shields.io/badge/Dataverse-0A66C2?style=for-the-badge" alt="Dataverse" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
 </p>
 
 ---
@@ -136,12 +128,12 @@ Enterprise Automation
 ## ☁️ DevOps & Tools
 
 <p>
-  https://skillicons.dev/icons?i=git,github,vscode,figma,postman
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Dev tools" />
 </p>
 
 <p>
-  https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white
-  <img src="https://img.shields.io/badge/XrmToolBox-0178D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/XrmToolBox-0178D4?style=for-the-badge" alt="XrmToolBox" />
 </p>
 
 ---
@@ -149,9 +141,9 @@ Enterprise Automation
 ## 🤖 AI & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Copilot-00A4EF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Copilot_Studio-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Builder-742774?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft_Copilot-00A4EF?style=for-the-badge" alt="Microsoft Copilot" />
+  <img src="https://img.shields.io/badge/Copilot_Studio-412991?style=for-the-badge" alt="Copilot Studio" />
+  <img src="https://img.shields.io/badge/AI_Builder-742774?style=for-the-badge" alt="AI Builder" />
 </p>
 
 ---
@@ -216,25 +208,16 @@ Enterprise Automation
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=alagalaharitha&show_icons=true&theme=tokyonight&hide_border=true
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alagalaharitha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alagalaharitha&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=alagalaharitha&layout=compact&theme=tokyonight&hide_border=true
+<br/>
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=alagalaharitha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
----
+<br/>
 
-<div align="center">
-
-https://github-readme-streak-stats.herokuapp.com/?user=alagalaharitha&theme=tokyonight&hide_border=true
-
-</div>
-
----
-
-<div align="center">
-
-https://github-profile-trophy.vercel.app/?username=alagalaharitha&theme=tokyonight&column=7&margin-w=15&margin-h=15
+<img src="https://github-profile-trophy.vercel.app/?username=alagalaharitha&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub trophies" />
 
 </div>
 
@@ -245,15 +228,13 @@ https://github-profile-trophy.vercel.app/?username=alagalaharitha&theme=tokyonig
 <div align="center">
 
 <a href="https://linkedin.com/in/alagala-haritha">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
-
 <a href="mailto:alagalaharitha1999@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
 </a>
-
 <a href="https://github.com/alagalaharitha">
-  https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 </div>
