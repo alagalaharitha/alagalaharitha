@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Haritha Alagala
@@ -35,30 +34,17 @@
 
 # 🚀 About Me
 
-💼 Senior Microsoft Power Platform Developer with 6+ years of experience designing and delivering enterprise-grade business applications, automation solutions, and AI-powered business experiences.
+💼 Senior Microsoft Power Platform Developer with 6+ years of experience designing and delivering enterprise-grade business applications, workflow automation solutions, and AI-powered business experiences.
 
 🔹 Specialized in **Power Apps, Power Automate, Dataverse, Copilot Studio, Power BI, and Power Pages**
 
-🔹 Experienced in **application modernization, process automation, enterprise integrations, and digital transformation initiatives**
+🔹 Experienced in **application modernization, enterprise integrations, governance, security, and digital transformation initiatives**
 
-🔹 Passionate about solving complex business challenges using **low-code, AI, automation, and cloud technologies**
+🔹 Passionate about solving complex business challenges using **Low-Code, AI, Automation, and Microsoft Cloud technologies**
 
-🔹 Strong background in **solution design, governance, ALM, security, integrations, and stakeholder collaboration**
+🔹 Strong background in **Power Platform Architecture, ALM, API Integrations, and Enterprise Solution Design**
 
-🔹 Microsoft Certified Professional with **PL-400, PL-300, PL-100, and PL-900**
-
----
-
-# 🧩 Featured Work
-
-> Generalized to respect client confidentiality. Detailed walkthroughs available upon request.
-
-| Solution | What I Delivered |
-|-----------|------------------|
-| 🚀 Enterprise K2 → Power Apps Migration | Built 4+ responsive Canvas Apps from Figma designs, implemented SQL Server backend with optimized stored procedures, multi-level approval workflows, EDMS integrations, and environment-variable-driven deployments |
-| ⚖️ Legal Operations Tracking Platform | Developed persona-based Power Apps, secure data capture forms, approval workflows, automated notifications, and reporting dashboards |
-| 📊 Document Services Mini CRM | Designed a Dataverse-based CRM solution for lead and opportunity management, reducing manual effort through automation |
-| 🔗 Real-Time Web Form Integration | Built Adobe I/O Runtime serverless integrations and Power Automate workflows to capture external submissions into Dataverse |
+🔹 Microsoft Certified Professional with multiple certifications and Applied Skills credentials
 
 ---
 
@@ -66,10 +52,23 @@
 
 - 🤖 Building AI Agents using Microsoft Copilot Studio
 - 🧠 Exploring Autonomous Agent Capabilities
-- 🛡️ Power Platform Governance & ALM Best Practices
+- 🛡️ Power Platform Governance & ALM
 - 🗄️ Advanced Dataverse Architecture
-- 🔗 Microsoft Fabric Integration Scenarios
-- 🚀 Enterprise Power Platform Solution Design
+- 🔗 Microsoft Fabric Integration
+- 🚀 Enterprise Solution Design Patterns
+
+---
+
+# 🧩 Featured Work
+
+> Generalized to maintain client confidentiality.
+
+| Solution | Highlights |
+|-----------|------------|
+| 🚀 Enterprise K2 → Power Apps Migration | Built 4+ responsive Canvas Apps, SQL Server backend, approval workflows, EDMS integrations, environment-variable-based deployment |
+| ⚖️ Legal Operations Tracking Platform | Persona-based Power Apps, secure workflows, automated notifications, reporting dashboards |
+| 📊 Dataverse Mini CRM | Lead and opportunity management with automation reducing manual effort |
+| 🔗 Real-Time Dataverse Integration | Adobe I/O Runtime and Power Automate integration architecture |
 
 ---
 
@@ -81,11 +80,11 @@ Power Automate
 Dataverse
 Copilot Studio
 Power BI
-Power Platform Architecture
 Power Pages
 AI Builder
+Power Platform Architecture
 Azure DevOps
-Application Lifecycle Management (ALM)
+ALM
 Custom Connectors
 REST APIs
 SQL Server
@@ -98,62 +97,61 @@ Enterprise Automation
 
 ## ⚡ Power Platform
 
-<p align="left">
-<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" />
-https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Power_Pages-5A2D82?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Copilot_Studio-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Builder-742774?style=for-the-badge" />
+<p>
+  https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge
+  https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge
+  <img src="https://img.shields.io/badge/Dataverse-0A66C2?style=for-the-badge" />
+  https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge
+  <img src="https://img.shields.io/badge/Power_Pages-5A2D82?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Copilot_Studio-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Builder-742774?style=for-the-badge" />
 </p>
 
 ---
 
 ## 💻 Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
-<p align="left">
-<img src="https://img.shields.io/badge/PowerFx-742774?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Custom_Connectors-0A66C2?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/PowerFx-742774?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Custom_Connectors-0A66C2?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🗄️ Databases
 
-<p align="left">
-<img src="https://img.shields.io/badge/Dataverse-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" />
-https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white
+<p>
+  <img src="https://img.shields.io/badge/Dataverse-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" />
+  https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white
 </p>
 
 ---
 
 ## ☁️ DevOps & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+  https://skillicons.dev/icons?i=git,github,vscode,figma,postman
 </p>
 
-<p align="left">
-https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-<img src="https://img.shields.io/badge/XrmToolBox-0178D4?style=for-the-badge" />
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+<p>
+  https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white
+  <img src="https://img.shields.io/badge/XrmToolBox-0178D4?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🤖 AI & Automation
 
-<p align="left">
-<img src="https://img.shields.io/badge/Microsoft_Copilot-00A4EF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Copilot_Studio-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Builder-742774?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Copilot-00A4EF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Copilot_Studio-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Builder-742774?style=for-the-badge" />
 </p>
 
 ---
@@ -172,7 +170,7 @@ https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoCol
 
 ---
 
-## 🎯 Applied Skills
+## 🎯 Microsoft Applied Skills
 
 ✅ PL-7001: Create and Manage Canvas Apps with Power Apps
 
@@ -200,7 +198,7 @@ https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoCol
 
 ✔ Power Automate Development
 
-✔ Copilot Studio & AI Agents
+✔ Copilot Studio Agent Development
 
 ✔ Application Modernization
 
@@ -264,8 +262,8 @@ https://github-profile-trophy.vercel.app/?username=alagalaharitha&theme=tokyonig
 
 <div align="center">
 
-### 🚀 Building intelligent business solutions with Microsoft Power Platform
+## 🚀 Building Intelligent Business Solutions with Microsoft Power Platform
 
-*"Turning business challenges into scalable digital solutions through automation, AI, and innovation."*
+### Transforming business challenges into scalable digital solutions through Automation, AI, and Innovation.
 
 </div>
