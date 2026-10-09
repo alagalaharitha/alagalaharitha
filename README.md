@@ -1,17 +1,9 @@
-<div align="center">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%2C%20I'm%20Haritha%20Alagala&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Microsoft%20Power%20Platform%20Developer&descSize=22&descAlignY=58&color=gradient&customColorList=6,12,18" alt="Hi, I'm Haritha Alagala" width="100%" />
 </div>
 
 ### 🚀 Power Apps • Power Automate • Dataverse • Copilot Studio • Power BI
-
-</div>
-
-
-# 👋 Hi, I'm Haritha Alagala
-
-### Senior Microsoft Power Platform Developer
 
 ### Building Enterprise Applications • Automating Business Processes • Creating AI-Powered Solutions
 
