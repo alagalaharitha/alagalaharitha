@@ -1,8 +1,8 @@
 <div align="center">
 
-https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&pause=1000&color=0078D4&center=true&vCenter=true&width=1200&lines=Haritha+Alagala;Senior+Microsoft+Power+Platform+Developer;Building+Intelligent+Business+Solutions
-
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi%2C%20I'm%20Haritha%20Alagala&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Microsoft%20Power%20Platform%20Developer&descSize=22&descAlignY=58&color=gradient&customColorList=6,12,18" alt="Hi, I'm Haritha Alagala" width="100%" />
+</div>
 
 ### 🚀 Power Apps • Power Automate • Dataverse • Copilot Studio • Power BI
 
